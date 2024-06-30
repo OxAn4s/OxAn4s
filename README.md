@@ -58,29 +58,29 @@
 <a href="https://www.reddit.com/user/0xAn4s/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="25" /></a>  
 <a href="https://twitter.com/0xAn4s" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="25" /></a>  
 <a href="https://stackoverflow.com/users/22734565/anas" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow alt="StackOverFlow" height="25" /></a>  
-<a href="https://github.com/An4s0" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt='Github' /></a>
+<a href="https://github.com/OxAn4s" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt='Github' /></a>
 </div>  
 
 <br/>
 
 ## Github Stats
 <p align="center">
-  <a href="https://github.com/An4s0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=An4s0&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+  <a href="https://github.com/OxAn4s">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxAn4s&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/An4s0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=An4s0&theme=radical" alt="GitHub Contribution"/>
+  <a href="https://github.com/OxAn4s">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OxAn4s&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/An4s0"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=An4s0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/An4s0"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=An4s0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/OxAn4s"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=OxAn4s&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/OxAn4s"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=OxAn4s&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Anas's Graph](https://github-readme-activity-graph.vercel.app/graph?username=An4s0&custom_title=Anas's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Anas's Graph](https://github-readme-activity-graph.vercel.app/graph?username=OxAn4s&custom_title=Anas's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
